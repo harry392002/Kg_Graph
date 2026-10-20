@@ -1,0 +1,1202 @@
+[
+  {
+    "paperId": "00358a3f17821476d93461192b9229fe7d92bb3f",
+    "title": "GNNExplainer: Generating Explanations for Graph Neural Networks",
+    "year": 2019,
+    "citations": 1765,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a model-agnostic approach for providing interpretable explanations for Graph Neural Networks, directly addressing explainability in AI/ML models."
+  },
+  {
+    "paperId": "01356797005cc02c414e358dcc2b417b9b81cceb",
+    "title": "Explaining individual predictions when features are dependent: More accurate approximations to Shapley values",
+    "year": 2019,
+    "citations": 854,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability by proposing a method to extend Kernel SHAP to handle dependent features, providing a solid contribution to the XAI domain."
+  },
+  {
+    "paperId": "00564e1485e0f69a169d92cb8adaf1df701392ed",
+    "title": "Interpretable and Explainable Machine Learning for Materials Science and Chemistry",
+    "year": 2021,
+    "citations": 253,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and interpretability of AI/ML models in materials science and chemistry, meeting the inclusion criteria."
+  },
+  {
+    "paperId": "001deace2f4b3db4ee6ed0f99873f1bfe852c118",
+    "title": "Explainable Deep Learning Methods in Medical Image Classification: A Survey",
+    "year": 2022,
+    "citations": 126,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in medical image classification, proposing and surveying methods for making AI/ML predictions understandable."
+  },
+  {
+    "paperId": "00f754891bd6958896591f7d89cc7805b3e8210a",
+    "title": "Explainable Automated Essay Scoring: Deep Learning Really Has Pedagogical Value",
+    "year": 2020,
+    "citations": 108,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models by proposing and evaluating methods for making AES predictions understandable."
+  },
+  {
+    "paperId": "01033b2312ad3509de0d205c0d50c2a2bf609980",
+    "title": "Transparency and Privacy: The Role of Explainable AI and Federated Learning in Financial Fraud Detection",
+    "year": 2023,
+    "citations": 106,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and transparency of AI/ML models in the context of financial fraud detection, proposing a novel approach using Federated Learning and Explainable AI."
+  },
+  {
+    "paperId": "0088edc8676c9be2ab468ab6838ab668845f32ba",
+    "title": "Shapley Flow: A Graph-based Approach to Interpreting Model Predictions",
+    "year": 2020,
+    "citations": 106,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a novel approach to interpreting machine learning models by considering the entire causal graph and assigning credit to edges, which directly addresses explainability and interpretability."
+  },
+  {
+    "paperId": "02499d8a24ffcc0e5f3506d81d1ac8844e552931",
+    "title": "Explainable Artificial Intelligence for Safe Intraoperative Decision Support.",
+    "year": 2019,
+    "citations": 86,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models for intraoperative decision support in healthcare, proposing and evaluating XAI methods for real-time clinical decision support."
+  },
+  {
+    "paperId": "028b243cf4af9ce5f48b7e851b5d79b2265cac8a",
+    "title": "A Meta-Analysis of the Utility of Explainable Artificial Intelligence in Human-AI Decision-Making",
+    "year": 2022,
+    "citations": 84,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses the utility and impact of XAI methods on human-AI decision-making."
+  },
+  {
+    "paperId": "025d4b73c1d0f267ca39fa9649413d88ed3cc5bc",
+    "title": "Going Beyond XAI: A Systematic Survey for Explanation-Guided Learning",
+    "year": 2022,
+    "citations": 65,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explanation-guided learning, a domain that steers AI models' reasoning process by adding regularization, supervision, or intervention on model explanations."
+  },
+  {
+    "paperId": "00ef2d062d6be83638446edbcab3bfd5cb850a18",
+    "title": "Toward explainable AI (XAI) for mental health detection based on language behavior",
+    "year": 2023,
+    "citations": 63,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models for mental health detection, proposing and evaluating methods for making predictions understandable."
+  },
+  {
+    "paperId": "000829516229b87cafff052fe310604c85236671",
+    "title": "Jacobian Adversarially Regularized Networks for Robustness",
+    "year": 2019,
+    "citations": 81,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a method to optimize the saliency of a classifier's Jacobian, which is directly related to explainability and interpretability of AI/ML models."
+  },
+  {
+    "paperId": "00f7ed984ea5f51c22c641031adb2f3b2c0b2846",
+    "title": "Improvement of a prediction model for heart failure survival through explainable artificial intelligence",
+    "year": 2021,
+    "citations": 59,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability of AI/ML models in the healthcare domain, proposing and evaluating methods for making predictions understandable."
+  },
+  {
+    "paperId": "04de54ef65f3d2afae053d2401cd2ee10aed437b",
+    "title": "Do Not Trust Additive Explanations",
+    "year": 2019,
+    "citations": 56,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses the faithfulness of additive explanations in XAI, proposing a new method to detect interactions and evaluating its performance."
+  },
+  {
+    "paperId": "024b960a1d833e495f0230c3d789571dae7ec0b1",
+    "title": "Interpretability of Machine Learning Solutions in Public Healthcare: The CRISP-ML Approach",
+    "year": 2021,
+    "citations": 55,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses interpretability of AI/ML models in the healthcare domain using the CRISP-ML approach."
+  },
+  {
+    "paperId": "00d828af1015906846450047af87cd65d01fddc8",
+    "title": "SAT-Based Rigorous Explanations for Decision Lists",
+    "year": 2021,
+    "citations": 54,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses the explainability of Decision Lists in Machine Learning, proposing methods for computing abductive and contrastive explanations."
+  },
+  {
+    "paperId": "019e0b15a822f3fa5cf3194ffc605a2534a004a6",
+    "title": "A convolutional neural network highlights mutations relevant to antimicrobial resistance in Mycobacterium tuberculosis",
+    "year": 2022,
+    "citations": 54,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses interpretability of deep learning methods for predicting antibiotic resistance phenotypes in M. tuberculosis isolates."
+  },
+  {
+    "paperId": "013213a7fc1e7d2087511a76317f3961713dabba",
+    "title": "Explanatory pragmatism: a context-sensitive framework for explainable medical AI",
+    "year": 2022,
+    "citations": 47,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in the context of medical AI, proposing a context-sensitive framework for explainable AI."
+  },
+  {
+    "paperId": "03a9540aa71ee8921d7656e0a78eb08a64f68a94",
+    "title": "Towards Transparent Healthcare: Advancing Local Explanation Methods in Explainable Artificial Intelligence",
+    "year": 2024,
+    "citations": 47,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses local explainability methods in the healthcare domain, aligning with the research domain of Explainable AI."
+  },
+  {
+    "paperId": "040ee486ae81fc8570836fb5cd6959065868b8ad",
+    "title": "On Preferred Abductive Explanations for Decision Trees and Random Forests",
+    "year": 2022,
+    "citations": 47,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability by proposing a method for computing preferred abductive explanations for decision trees and random forests."
+  },
+  {
+    "paperId": "047d589b6f1dfc14bb2c6ef031cd34bc0a1c123b",
+    "title": "Explainable AI and Law: An Evidential Survey",
+    "year": 2023,
+    "citations": 47,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models, specifically in the legal domain, and proposes a novel taxonomy for explainable AI (XAI) research."
+  },
+  {
+    "paperId": "059903f86aa0704d24634b6aa735e0b10721a4ee",
+    "title": "Abnormality Detection and Failure Prediction Using Explainable Bayesian Deep Learning: Methodology and Case Study with Industrial Data",
+    "year": 2022,
+    "citations": 47,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in the context of Bayesian deep learning for anomaly detection and failure prediction in the PHM domain."
+  },
+  {
+    "paperId": "00b9cead4ffc66c9b1282058dbd65f780cdf37e8",
+    "title": "Trustworthy Federated Learning: A Comprehensive Review, Architecture, Key Challenges, and Future Research Prospects",
+    "year": 2024,
+    "citations": 61,
+    "relevance_score": 0.8,
+    "reason": "The paper directly addresses explainability, interpretability, and transparency of AI/ML models through its proposed taxonomy and comprehensive review of trustworthy federated learning."
+  },
+  {
+    "paperId": "012724589505486309b6d01b071b913b65a1070d",
+    "title": "Exploration of a machine learning approach for diagnosing sarcopenia among Chinese community-dwelling older adults using sEMG-based data",
+    "year": 2024,
+    "citations": 45,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes and evaluates a method for making AI/ML predictions understandable in the context of sarcopenia screening, and discusses the interpretability of the obtained ML models using SHAP."
+  },
+  {
+    "paperId": "012f902862bd9becc9ee9236ed5b297adf7a73bd",
+    "title": "Explainable artificial intelligence for pharmacovigilance: What features are important when predicting adverse outcomes?",
+    "year": 2021,
+    "citations": 42,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models by proposing and evaluating methods for making predictions understandable in the pharmacovigilance domain."
+  },
+  {
+    "paperId": "0343c2da9fb6c0534176c7e32e3f0d8d3dd043b8",
+    "title": "Why Don’t XAI Techniques Agree? Characterizing the Disagreements Between Post-hoc Explanations of Defect Predictions",
+    "year": 2022,
+    "citations": 42,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability of AI/ML models by investigating disagreements between post-hoc explanation methods and proposing a method for aggregating them."
+  },
+  {
+    "paperId": "00b0c9015af1df08b0bab112775a429e84b0a130",
+    "title": "Face Liveness Detection Using Artificial Intelligence Techniques: A Systematic Literature Review and Future Directions",
+    "year": 2023,
+    "citations": 51,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses AI/ML approaches for face liveness detection, including Explainable Artificial Intelligence, which is relevant to the XAI research domain."
+  },
+  {
+    "paperId": "002fa340aa3b7a5d54ef3aa0e535b84e9e554cd0",
+    "title": "Versatile Internet of Things for Agriculture: An eXplainable AI Approach",
+    "year": 2020,
+    "citations": 37,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes an explainable AI approach for a specific domain (agriculture) and evaluates its effectiveness."
+  },
+  {
+    "paperId": "04ae5d7208e17db9245254580ab3f7e0ef2f643b",
+    "title": "NOVA - A tool for eXplainable Cooperative Machine Learning",
+    "year": 2019,
+    "citations": 35,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and transparency of AI/ML models through the implementation of XAI techniques and visual explanations."
+  },
+  {
+    "paperId": "01340cb57094894b8e3c357ccedaed593f66d89f",
+    "title": "Feature-Guided CNN for Denoising Images From Portable Ultrasound Devices",
+    "year": 2021,
+    "citations": 45,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a novel denoising neural network model that employs Explainable Artificial Intelligence (XAI) for medical images, indicating a direct address of explainability in a specific domain."
+  },
+  {
+    "paperId": "00121fd34a8f1fad57aeef0174faa91ab1dbf921",
+    "title": "Interpreting the retinal neural code for natural scenes: From computations to neurons",
+    "year": 2023,
+    "citations": 44,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses the interpretability of a neural network model for retinal natural scene responses, providing insights into the circuit mechanisms of the visual code."
+  },
+  {
+    "paperId": "01ddd2dd99e4ce985e9f2ad95d03e92674799748",
+    "title": "A novel hybrid ViT-LSTM model with explainable AI for brain stroke detection and classification in CT images: A case study of Rajshahi region",
+    "year": 2025,
+    "citations": 33,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability by incorporating XAI methods, including attention maps, SHAP, and LIME, to provide interpretable predictions."
+  },
+  {
+    "paperId": "01726d8db601b4c09a1ee306a98f7b1d99e7b12c",
+    "title": "A review of uncertainty quantification in medical image analysis: Probabilistic and non-probabilistic methods",
+    "year": 2024,
+    "citations": 43,
+    "relevance_score": 0.8,
+    "reason": "The paper directly addresses interpretability and uncertainty quantification in medical image analysis, applying XAI methods to a specific domain (healthcare)."
+  },
+  {
+    "paperId": "02530b7509df056e80c1e9def29e6d448d97830a",
+    "title": "Additive-feature-attribution methods: a review on explainable artificial intelligence for fluid dynamics and heat transfer",
+    "year": 2024,
+    "citations": 32,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models, specifically additive-feature-attribution methods, and applies them to a specific domain (fluid dynamics and heat transfer)."
+  },
+  {
+    "paperId": "0021b60bde8d4f0999794344dfc2365f3357e095",
+    "title": "Asynchronous Large Language Model Enhanced Planner for Autonomous Driving",
+    "year": 2024,
+    "citations": 41,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a method to enhance the interpretability and controllability of motion planning in autonomous driving using Large Language Models."
+  },
+  {
+    "paperId": "024087f125814fa70c6411fba9a4caff75878983",
+    "title": "State2Explanation: Concept-Based Explanations to Benefit Agent Learning and User Understanding",
+    "year": 2023,
+    "citations": 31,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a unified framework for concept-based explanations in sequential decision making, addressing explainability and interpretability in AI/ML models."
+  },
+  {
+    "paperId": "04f17c023243a47c32469fe8f1b102bb9e4dc729",
+    "title": "Shelf Auditing Based on Image Classification Using Semi-Supervised Deep Learning to Increase On-Shelf Availability in Grocery Stores",
+    "year": 2021,
+    "citations": 37,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a method that incorporates explainable AI (XAI) for on-shelf availability in grocery stores, making it relevant to the research domain."
+  },
+  {
+    "paperId": "01c7a79b50d9a67b370fc1c8e578d704950317c8",
+    "title": "Explainability Is in the Mind of the Beholder: Establishing the Foundations of Explainable Artificial Intelligence",
+    "year": 2021,
+    "citations": 28,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses the foundations of explainable AI, proposing a conceptualisation of explainability and discussing its implications for transparency, predictive power, and fairness."
+  },
+  {
+    "paperId": "00ecdc85beca7a4abdfea70605568dea4761357c",
+    "title": "Beyond \"sex prediction\": Estimating and interpreting multivariate sex differences and similarities in the brain",
+    "year": 2021,
+    "citations": 36,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes and evaluates methods for making AI/ML predictions understandable in the context of brain imaging analysis, addressing interpretability and transparency of ML models."
+  },
+  {
+    "paperId": "01c6450fb3eab8f28a38fe2804dfa5e3a304c06b",
+    "title": "BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model",
+    "year": 2025,
+    "citations": 27,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a method for making AI/ML predictions understandable in the domain of biology, addressing explainability and interpretability."
+  },
+  {
+    "paperId": "0511ffe8722695e3d8ccfe96f2aff52417e4ac6a",
+    "title": "Federated XAI IDS: An Explainable and Safeguarding Privacy Approach to Detect Intrusion Combining Federated Learning and SHAP",
+    "year": 2025,
+    "citations": 27,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a novel framework for explainable intrusion detection using federated learning and SHAP, addressing both privacy and feature interpretability issues."
+  },
+  {
+    "paperId": "0109a79edaebc3000e0407b6ba71dc0f57ca7fbe",
+    "title": "Automated Multidimensional Analysis of Global Events With Entity Detection, Sentiment Analysis and Anomaly Detection",
+    "year": 2021,
+    "citations": 35,
+    "relevance_score": 0.8,
+    "reason": "The paper directly addresses explainability through the use of explainable AI in its media monitoring system, providing detailed explanations and robust anomaly detection."
+  },
+  {
+    "paperId": "0024c33a8cca7175b92880b8c47940deeb05e87c",
+    "title": "An Explainable Artificial Intelligence Model for the Classification of Breast Cancer",
+    "year": 2025,
+    "citations": 26,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability by proposing and evaluating methods for making AI/ML predictions understandable in the context of breast cancer diagnosis."
+  },
+  {
+    "paperId": "00067167780586c68340794b24c719cf5cc86910",
+    "title": "Analysis of Interpretability and Generalizability for Power Converter Fault Diagnosis Based on Temporal Convolutional Networks",
+    "year": 2023,
+    "citations": 26,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses interpretability and transparency of AI/ML models for power converter fault diagnosis."
+  },
+  {
+    "paperId": "00b38438d316bef66998f7bc6f937397bbe6449c",
+    "title": "Integrated ensemble CNN and explainable AI for COVID-19 diagnosis from CT scan and X-ray images",
+    "year": 2024,
+    "citations": 25,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models for COVID-19 diagnosis from CT scan and X-ray images."
+  },
+  {
+    "paperId": "0388512f55246b6fd2347a5967c08fd4916b8540",
+    "title": "Prediction and interpretation of antibiotic-resistance genes occurrence at recreational beaches using machine learning models.",
+    "year": 2022,
+    "citations": 25,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and interpretability of ML models in a specific domain (healthcare/ environmental science) and proposes methods for making predictions understandable."
+  },
+  {
+    "paperId": "02c41b2dbb68b46891919356b2bc2c191354e17d",
+    "title": "Trust criteria for artificial intelligence in health: normative and epistemic considerations",
+    "year": 2023,
+    "citations": 32,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses trust criteria for AI in healthcare, which involves understanding how users trust AI/ML systems, and touches on the need for 'source' from 'functional' explainability."
+  },
+  {
+    "paperId": "008c1462e5fb528a0cfe67b6331571264b9f5608",
+    "title": "Transitive Sequencing Medical Records for Mining Predictive and Interpretable Temporal Representations",
+    "year": 2020,
+    "citations": 24,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a method for constructing temporal representations from EHRs for downstream machine learning, which involves interpretability and explainability of AI/ML models."
+  },
+  {
+    "paperId": "002e09dad5d5639137d645087dc0ef5628b97d8e",
+    "title": "Build confidence and acceptance of AI-based decision support systems - Explainable and liable AI",
+    "year": 2020,
+    "citations": 31,
+    "relevance_score": 0.8,
+    "reason": "The paper directly addresses explainability and transparency of AI-based decision support systems, proposing a structured overview of Transparency, Explicability, and Interpretability."
+  },
+  {
+    "paperId": "03cb69e7b4b92792c424fd3f8a7b96f225fa4876",
+    "title": "Brain tumor classification utilizing pixel distribution and spatial dependencies higher-order statistical measurements through explainable ML models",
+    "year": 2024,
+    "citations": 23,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability of AI/ML models through the application of XAI approaches to ensure transparent decision-making processes and provide insights into the model's predictions."
+  },
+  {
+    "paperId": "0523e8baa3190fa09f3566720ff01301a53f1b7d",
+    "title": "Explainable AI applications in the Medical Domain: a systematic review",
+    "year": 2023,
+    "citations": 22,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in the medical domain, proposing and evaluating methods for making AI/ML predictions understandable."
+  },
+  {
+    "paperId": "00ac2336ef552ff8c973bc4b8d56c307670717b7",
+    "title": "Early identification of autism spectrum disorder by multi-instrument fusion: A clinically applicable machine learning approach.",
+    "year": 2023,
+    "citations": 29,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes and evaluates a machine learning approach for identifying autism spectrum disorder, and discusses model interpretability through a two-stage decision model."
+  },
+  {
+    "paperId": "034b73d895d0e31e7f6c768105d4d6eb25fab99f",
+    "title": "Predictive modeling of consumer purchase behavior on social media: Integrating theory of planned behavior and machine learning for actionable insights",
+    "year": 2023,
+    "citations": 28,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes and evaluates a method for making AI/ML predictions understandable using Explainable AI (XAI) and applies it to a specific domain (consumer purchase behavior on social media)"
+  },
+  {
+    "paperId": "0081a2443e36dab08b26d53acc1fa8bd8dc7350d",
+    "title": "Creating an Explainable Intrusion Detection System Using Self Organizing Maps",
+    "year": 2022,
+    "citations": 20,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models by proposing a novel X-IDS architecture featuring a Self Organizing Map."
+  },
+  {
+    "paperId": "01ae7c73699efd44267a067d8d69bdc4d307b14f",
+    "title": "Survey on Deep Fuzzy Systems in Regression Applications: A View on Interpretability",
+    "year": 2022,
+    "citations": 20,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses interpretability of AI/ML models and proposes a survey on deep fuzzy systems for regression applications."
+  },
+  {
+    "paperId": "026852622c049196d120eb3e6858a5e975a0e8e2",
+    "title": "Validating Automatic Concept-Based Explanations for AI-Based Digital Histopathology",
+    "year": 2022,
+    "citations": 20,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in the context of AI-based digital histopathology and proposes a novel XAI method, automated concept-based explanation (ACE)"
+  },
+  {
+    "paperId": "01774e1c85022692414cd5f0c6ba813ef32dbec5",
+    "title": "Interpreting Federated Learning (FL) Models on Edge Devices by Enhancing Model Explainability with Computational Geometry and Advanced Database Architectures",
+    "year": 2024,
+    "citations": 20,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses model explainability in the context of federated learning, proposing techniques to enhance transparency and interpretability."
+  },
+  {
+    "paperId": "0268745b64fdb216ef24da035e4feefcd04da27b",
+    "title": "Recent Studies of XAI - Review",
+    "year": 2021,
+    "citations": 20,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and fairness in AI systems, proposing and reviewing methods for making AI predictions understandable."
+  },
+  {
+    "paperId": "007b0091460a07e2472ce25211dfdde935a2d497",
+    "title": "Deep Recurrent Factor Model: Interpretable Non-Linear and Time-Varying Multi-Factor Model",
+    "year": 2019,
+    "citations": 20,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a method for making AI/ML predictions understandable in the context of equity portfolio management."
+  },
+  {
+    "paperId": "01958e7b77fcb870882214aa06a79030d632969f",
+    "title": "Explainable AI: A Multispectral Palm-Vein Identification System with New Augmentation Features",
+    "year": 2021,
+    "citations": 26,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a palm-vein identification system that incorporates explainable AI, addressing the limitation of multispectral images and providing superior performance to former approaches."
+  },
+  {
+    "paperId": "0107655716ff25a2f7408bcbfd289fcd34427c50",
+    "title": "Melody: Generating and Visualizing Machine Learning Model Summary to Understand Data and Classifiers Together",
+    "year": 2020,
+    "citations": 19,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a method for global model explanation using information theory and presents an interactive visual analytics system for XAI tasks."
+  },
+  {
+    "paperId": "005f7178e9c04a90c6186f48cb0da02099cd64a6",
+    "title": "Explaining the Factors Affecting Customer Satisfaction at the Fintech Firm F1 Soft by Using PCA and XAI",
+    "year": 2023,
+    "citations": 19,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and interpretability of AI/ML models by using XAI, LIME, and SHAP for understanding customer satisfaction in the fintech domain."
+  },
+  {
+    "paperId": "02749e975db3ea555eeffc2ff69c1e1d5ae981d7",
+    "title": "Knowledge-driven Site Selection via Urban Knowledge Graph",
+    "year": 2021,
+    "citations": 25,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a knowledge-driven model for site selection that leverages knowledge graphs and achieves explainability, aligning with the XAI research domain."
+  },
+  {
+    "paperId": "012e53f0deeb29fbb79179ec002c7bfe88881995",
+    "title": "Is this AI trained on Credible Data? The Effects of Labeling Quality and Performance Bias on User Trust",
+    "year": 2023,
+    "citations": 24,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses the effects of labeling quality and performance bias on user trust, which is related to explainability and transparency in AI/ML models."
+  },
+  {
+    "paperId": "010606d2e45a3cae2353d7105bb1ab4cea2ecfbe",
+    "title": "Statistical Physics through the Lens of Real-Space Mutual Information.",
+    "year": 2021,
+    "citations": 24,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a machine learning approach with formal interpretability for identifying relevant degrees of freedom in complex physical systems."
+  },
+  {
+    "paperId": "004298c226035db1ab4e9e33e4931c4d9f9a66cb",
+    "title": "AI-driven personalized nutrition: RAG-based digital health solution for obesity and type 2 diabetes",
+    "year": 2025,
+    "citations": 18,
+    "relevance_score": 0.9,
+    "reason": "The paper applies XAI methods to a specific domain (healthcare) and discusses a framework (RAG-based digital health solution) for model explanation."
+  },
+  {
+    "paperId": "0057d56a6ee135ddc53e3d8cb897ed1405e00396",
+    "title": "Agnostic Explanation of Model Change based on Feature Importance",
+    "year": 2022,
+    "citations": 17,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in the context of online learning and model adaptation, proposing a model-agnostic approach to explaining model change."
+  },
+  {
+    "paperId": "00feceeef17951e02e499517031182623bd73b20",
+    "title": "Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG",
+    "year": 2024,
+    "citations": 17,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models by proposing a multi-agent framework for interpretable radiology report generation."
+  },
+  {
+    "paperId": "02b041767d7dc172514a0150432920b31075bf4d",
+    "title": "A Machine Learning and Explainable AI Framework Tailored for Unbalanced Experimental Catalyst Discovery",
+    "year": 2024,
+    "citations": 17,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and interpretability of AI/ML models in the context of catalyst discovery, proposing a framework that combines ML practices with XAI methods."
+  },
+  {
+    "paperId": "05708173e750e4b4cd7aa14249cd94f3e74c8e43",
+    "title": "Theoretical Behavior of XAI Methods in the Presence of Suppressor Variables",
+    "year": 2023,
+    "citations": 17,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses the limitations and behavior of XAI methods, specifically proposing a theoretical analysis of their performance in the presence of suppressor variables."
+  },
+  {
+    "paperId": "00661ab418a4abd3ed58696ac839125a58e919f9",
+    "title": "Prediction of small molecule drug-miRNA associations based on GNNs and CNNs",
+    "year": 2023,
+    "citations": 21,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a model that integrates GNNs and CNNs for predicting SM-miRNA associations and addresses the black-box effect of deep learning models using attention mechanisms."
+  },
+  {
+    "paperId": "015a14309b3218db37cfb85593361370b6adba59",
+    "title": "Interpretable machine learning-derived nomogram model for early detection of diabetic retinopathy in type 2 diabetes mellitus: a widely targeted metabolomics study",
+    "year": 2022,
+    "citations": 20,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a machine learning model for early detection of diabetic retinopathy and evaluates its performance, which involves explainability and interpretability of AI/ML predictions."
+  },
+  {
+    "paperId": "0048171031f890d629f796373da007740bd9cbfa",
+    "title": "Learning Sleep Quality from Daily Logs",
+    "year": 2019,
+    "citations": 20,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes an interpretable LSTM-Attention neural network model for predicting sleep efficiency, indicating a focus on model explanation."
+  },
+  {
+    "paperId": "000c7ff89120928292bbf176247bde8172a0f828",
+    "title": "Dynamic Prediction of Patient Outcomes in the Intensive Care Unit: A Scoping Review of the State-of-the-Art",
+    "year": 2023,
+    "citations": 19,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses the development of dynamic prediction models for patient outcomes in the ICU, which involves applying AI/ML methods to a specific domain (healthcare)."
+  },
+  {
+    "paperId": "0141070eb9bbf0b2fd94cab1d20c256ec6e89b65",
+    "title": "Towards Transparent Diabetes Prediction: Combining AutoML and Explainable AI for Improved Clinical Insights",
+    "year": 2024,
+    "citations": 14,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and interpretability of AI/ML models in the healthcare domain."
+  },
+  {
+    "paperId": "01d3d908e9d6194a1115717f6f3a09189dec8285",
+    "title": "Exact and Approximate Rule Extraction from Neural Networks with Boolean Features",
+    "year": 2019,
+    "citations": 14,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models by proposing a technique for rule extraction from neural networks."
+  },
+  {
+    "paperId": "001ce154c4437a931ac2eff3071f903e2f0fd40b",
+    "title": "A Deep Learning Based Explainable Control System for Reconfigurable Networks of Edge Devices",
+    "year": 2021,
+    "citations": 14,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability of a Deep Neural Network in an autonomous dynamic positioning system."
+  },
+  {
+    "paperId": "0022cb28a6153dfe8e628a9e259c0f2bc6a762f1",
+    "title": "Vehicle involvements in hydroplaning crashes: Applying interpretable machine learning",
+    "year": 2020,
+    "citations": 14,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses interpretability of AI/ML models and applies interpretable machine learning to a specific domain (roadway crashes)"
+  },
+  {
+    "paperId": "006740ca91070ad8451ceb5a322a1eae627226f5",
+    "title": "Development of interpretable machine learning models for prediction of acute kidney injury after noncardiac surgery: a retrospective cohort study",
+    "year": 2024,
+    "citations": 14,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability through the use of SHAP analysis for model interpretation in the context of predicting acute kidney injury after noncardiac surgery."
+  },
+  {
+    "paperId": "011eaf16974a90371490649215339fd7f6d86af8",
+    "title": "Interpretable instance disease prediction based on causal feature selection and effect analysis",
+    "year": 2022,
+    "citations": 14,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses interpretability and proposes a method for making AI/ML predictions understandable in the healthcare domain."
+  },
+  {
+    "paperId": "00873dfaa2c2eaa30499ce37ce9786a446fb715c",
+    "title": "Deep Learning Applications in Clinical Cancer Detection: A Review of Implementation Challenges and Solutions",
+    "year": 2025,
+    "citations": 18,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses the need for model interpretability and transparency in clinical cancer detection and explores emerging solutions, including explainable artificial intelligence."
+  },
+  {
+    "paperId": "02634d754f4898ffd68623f8ff6f7861e700ef88",
+    "title": "Accurate and Reliable Classification of Unstructured Reports on Their Diagnostic Goal Using BERT Models",
+    "year": 2023,
+    "citations": 18,
+    "relevance_score": 0.8,
+    "reason": "The paper directly addresses explainability through the use of XAI techniques to acquire insight into the inner workings of the model and compares verified XAI explanations with domain expert explanations."
+  },
+  {
+    "paperId": "02740de8d935251c25a6c1e778b54e501d41b862",
+    "title": "Cognitive architectures for artificial intelligence ethics",
+    "year": 2022,
+    "citations": 18,
+    "relevance_score": 0.8,
+    "reason": "The paper directly addresses AI transparency, explainability, and accountability through the application of cognitive architectures for ethical AI."
+  },
+  {
+    "paperId": "006040efea30c6fb8797e3a0463d45ea32fb836f",
+    "title": "Using Explainable Artificial Intelligence to Quantify “Climate Distinguishability” After Stratospheric Aerosol Injection",
+    "year": 2023,
+    "citations": 13,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in the context of climate modeling using XAI methods."
+  },
+  {
+    "paperId": "010e951b9221feed2aaf5a0959c27e5e9e811a31",
+    "title": "Explainable Artificial Intelligence for Early Prediction of Pressure Injury Risk.",
+    "year": 2024,
+    "citations": 13,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and interpretability of AI/ML models in the healthcare domain."
+  },
+  {
+    "paperId": "01dedd96bd2d696e3d93582438f5e44a174064bd",
+    "title": "Personality-based tailored explainable recommendation for trustworthy smart learning system in the age of artificial intelligence",
+    "year": 2023,
+    "citations": 13,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes and evaluates a method for generating personality-based tailored explanations in an explainable recommender system, addressing explainability and transparency of AI/ML models."
+  },
+  {
+    "paperId": "02d49e93d2c3754229bbca8366622f266bc6f5dd",
+    "title": "XAI based model evaluation by applying domain knowledge",
+    "year": 2022,
+    "citations": 13,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability by applying domain knowledge to evaluate AI models and proposes a method for identifying the right features for classification."
+  },
+  {
+    "paperId": "0158e7966d7b48e82b630fdf0bcd49e941dcfaa1",
+    "title": "Deep Forest Modeling: An Interpretable Deep Learning Method for Mineral Prospectivity Mapping",
+    "year": 2024,
+    "citations": 13,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes an interpretable deep learning method (Deep Forest) for mineral prospectivity mapping, addressing explainability and interpretability in AI/ML models."
+  },
+  {
+    "paperId": "001dd45151d808e1b59d75c04f5c5b59aa55b80f",
+    "title": "A Comparison of Learning Classifier Systems’ Rule Compaction Algorithms for Knowledge Visualization",
+    "year": 2021,
+    "citations": 17,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses methods for making AI/ML predictions understandable through knowledge visualization in Learning Classifier Systems, which is a subset of Explainable AI."
+  },
+  {
+    "paperId": "0042b9380f7da8335be040a3516e4f6765320834",
+    "title": "TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning",
+    "year": 2024,
+    "citations": 17,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a method for multimodal entailment tree generation, which promotes interpretable joint-modality reasoning in video understanding."
+  },
+  {
+    "paperId": "00ee8dd390aadc8c8295cbc29791d2595e2c3884",
+    "title": "Contextual Importance and Utility: aTheoretical Foundation",
+    "year": 2022,
+    "citations": 12,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability by proposing a new theoretical foundation for the XAI method Contextual Importance and Utility (CIU)."
+  },
+  {
+    "paperId": "0125e4f8d35544737086549b1dd894855e0cc5e7",
+    "title": "Understanding Figurative Meaning through Explainable Visual Entailment",
+    "year": 2024,
+    "citations": 12,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability by proposing an explainable visual entailment task and evaluating VLMs' ability to generalize from literal to figurative meaning."
+  },
+  {
+    "paperId": "015d6638e528eaba17659b1eefa63f4aa6414250",
+    "title": "DyFiP: explainable AI-based dynamic filter pruning of convolutional neural networks",
+    "year": 2022,
+    "citations": 12,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models by utilizing explainable AI for dynamic filter pruning of CNNs."
+  },
+  {
+    "paperId": "02a251e7ca6bb94bbfaa7fe9d1b5e74557622fcc",
+    "title": "A Novel MaxViT Model for Accelerated and Precise Soybean Leaf and Seed Disease Identification",
+    "year": 2025,
+    "citations": 12,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a novel XAI method (MaxViT-XSLD) for soybean disease identification, evaluates its performance, and discusses its interpretability."
+  },
+  {
+    "paperId": "014c965d946d7be4d64e41b23d48791c565a323d",
+    "title": "Machine Learning for Evaluating Hospital Mobility: An Italian Case Study",
+    "year": 2024,
+    "citations": 12,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses interpretability and transparency of AI/ML models by using SHAP values to quantify variable contributions and improve model fairness and interpretability in the healthcare domain."
+  },
+  {
+    "paperId": "0175562b6ecb7d42fc11ff83ef9176a1f166b2bb",
+    "title": "Filter pruning for convolutional neural networks in semantic image segmentation",
+    "year": 2023,
+    "citations": 16,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes methods for filter pruning in CNNs, which is related to explainability in AI, and evaluates their effectiveness in semantic image segmentation."
+  },
+  {
+    "paperId": "0050e83ffb1e2281455d2294793bbae715f7aa57",
+    "title": "Extracting information and inferences from a large text corpus",
+    "year": 2022,
+    "citations": 16,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses the application of machine learning methods for data interpretability in text mining, which is a key aspect of Explainable AI."
+  },
+  {
+    "paperId": "00ca9004eec6068e8393feb1060ce4e2921e8967",
+    "title": "Unlocking new frontiers in epilepsy through AI: From seizure prediction to personalized medicine.",
+    "year": 2025,
+    "citations": 16,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses the application of AI in epilepsy care, highlighting the importance of model interpretability and addressing ethical considerations."
+  },
+  {
+    "paperId": "0058af1038fe75d00f44f01218a611cf4a30eee1",
+    "title": "Kuramoto Model-Based Analysis Reveals Oxytocin Effects on Brain Network Dynamics",
+    "year": 2021,
+    "citations": 16,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a physics-based framework to investigate the effects of oxytocin on brain network dynamics, providing physical and neural insights into phase dynamics, which aligns with the XAI domain of model explanation and interpretability."
+  },
+  {
+    "paperId": "013252b96f30eb651a78abe674545576999e718c",
+    "title": "Model Distillation for Faithful Explanations of Medical Code Predictions",
+    "year": 2022,
+    "citations": 11,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models, proposing a method for generating faithful and plausible explanations in a specific domain (healthcare)."
+  },
+  {
+    "paperId": "03b7abe67442f384ed837c4ff08a1527ef051aa8",
+    "title": "Explainable Reinforcement Learning on Financial Stock Trading using SHAP",
+    "year": 2022,
+    "citations": 11,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models by proposing a novel Explainable Reinforcement Learning method using SHAP for financial stock trading."
+  },
+  {
+    "paperId": "044a0ddac6aaeaa518e79a1bbab929a97a6c9994",
+    "title": "An interpretable schizophrenia diagnosis framework using machine learning and explainable artificial intelligence",
+    "year": 2024,
+    "citations": 11,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models and applies XAI methods to a specific domain (healthcare)"
+  },
+  {
+    "paperId": "01eb37129a4b027b97b489a3a8ec2f3dcce064b4",
+    "title": "Factor-GAN: Enhancing stock price prediction and factor investment with Generative Adversarial Networks",
+    "year": 2024,
+    "citations": 14,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a framework that utilizes Generative Adversarial Networks for factor investing and conducts a subsample analysis to explain the economic mechanisms underlying deep learning."
+  },
+  {
+    "paperId": "020013c1a971e679d41f28215c3c67141bda6c22",
+    "title": "BayeSuites: An open web framework for massive Bayesian networks focused on neuroscience",
+    "year": 2020,
+    "citations": 14,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a framework for learning, visualizing, and interpreting Bayesian networks, which is a form of model explanation, and applies it to a specific domain (neuroscience)."
+  },
+  {
+    "paperId": "002bec1532344bccbeb644a82dd58bcecab22bdc",
+    "title": "Machine learning algorithm for predict the in-hospital mortality in critically ill patients with congestive heart failure combined with chronic kidney disease",
+    "year": 2024,
+    "citations": 14,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes and evaluates methods for making AI/ML predictions understandable using SHAP values and LIME algorithm in the context of healthcare."
+  },
+  {
+    "paperId": "00d232058962c3a70245fb715739593199a84938",
+    "title": "Large-Scale Structure-Based Prediction of Stable Peptide Binding to Class I HLAs Using Random Forests",
+    "year": 2020,
+    "citations": 14,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a structure-based method for predicting stable peptide binding to Class I HLAs using random forests and provides an interpretation analysis for model predictions."
+  },
+  {
+    "paperId": "01580cb1af3a7e086b3a969a810eba62237a9ea7",
+    "title": "Quality Metrics for Transparent Machine Learning With and Without Humans In the Loop Are Not Correlated",
+    "year": 2021,
+    "citations": 10,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and interpretability of AI/ML models, proposing a novel method for quality assessment of transparency in machine learning."
+  },
+  {
+    "paperId": "02370e297b85eae8efa638db6c407c97af6e790e",
+    "title": "A hybrid self attentive linearized phrase structured transformer based RNN for financial sentence analysis with sentence level explainability",
+    "year": 2025,
+    "citations": 10,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a hybrid model with explainability techniques for financial text analysis, directly addressing explainability and interpretability of AI/ML models."
+  },
+  {
+    "paperId": "00339a85aba1defcf1b3bc94f644973e897b0773",
+    "title": "Learning with Explanation Constraints",
+    "year": 2023,
+    "citations": 10,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability by formalizing learning from explanation constraints and providing a learning theoretic framework to analyze how such explanations can improve model learning."
+  },
+  {
+    "paperId": "01c4102190e8b3b7cf31444dff89f02d71d37fbf",
+    "title": "Predicting Heavy Metal Concentrations in Shallow Aquifer Systems Based on Low-Cost Physiochemical Parameters Using Machine Learning Techniques",
+    "year": 2022,
+    "citations": 13,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes an explainable framework for predicting heavy metal concentrations in shallow aquifer systems using machine learning techniques."
+  },
+  {
+    "paperId": "01d1afabdf9cc47b3c9dd734f3b3e84fbbe184d8",
+    "title": "Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs",
+    "year": 2025,
+    "citations": 13,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses a framework for actionable data analysis and storytelling with LLMs, which includes explainability as a key aspect."
+  },
+  {
+    "paperId": "004ac22d1362305254cf3531d3807a0c3db4e2ed",
+    "title": "StackDPPred: Multiclass Prediction of Defensin Peptides using Stacked Ensemble Learning with Optimized Features.",
+    "year": 2024,
+    "citations": 13,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a novel ensemble-based prediction model and applies LIME for model explanation, directly addressing explainability in AI/ML."
+  },
+  {
+    "paperId": "01644cb78038c0d3c68a0ea2d61fd76de32325c2",
+    "title": "Toward Effective and Interpretable Semantic Communications",
+    "year": 2024,
+    "citations": 13,
+    "relevance_score": 0.8,
+    "reason": "The paper addresses interpretability of semantic communications and proposes a guideline for implementing them, which aligns with the XAI domain."
+  },
+  {
+    "paperId": "00da30ba6dfbdafe3b79f301fb86e266a6fe38d5",
+    "title": "Contribution of meteorological factors based on explainable artificial intelligence in predicting wind farm power production using machine learning algorithms",
+    "year": 2023,
+    "citations": 9,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability using the Shapley additive explanations algorithm for wind farm power production prediction."
+  },
+  {
+    "paperId": "00eccb506983adee67c8bf85e11af087f98f8f3c",
+    "title": "Explainable Artificial Intelligence Driven Segmentation for Cervical Cancer Screening",
+    "year": 2025,
+    "citations": 9,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models, specifically through the application of XAI techniques (Grad-CAM++ and LRP) for cervical cancer screening."
+  },
+  {
+    "paperId": "02b1e4247fe57c1f5621345c970ad1f22f7f1f94",
+    "title": "Data Representing Ground-Truth Explanations to Evaluate XAI Methods",
+    "year": 2020,
+    "citations": 9,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability by proposing a methodology to create synthetic data representing ground-truth explanations for evaluating XAI methods."
+  },
+  {
+    "paperId": "02e1dd3396b663aaba3260619971b9f3d67fcefa",
+    "title": "A Convenient and Reliable Multi-Class Classification Model based on Explainable Artificial Intelligence for Alzheimer’s Disease",
+    "year": 2022,
+    "citations": 9,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models, specifically proposing a solution with SHapley Additive exPlanations (SHAP) for Alzheimer's disease classification."
+  },
+  {
+    "paperId": "01d63aaefdbf8f7d13c751e0a99271b693b39f2b",
+    "title": "Predicting thyroid cancer recurrence using supervised CatBoost: A SHAP-based explainable AI approach",
+    "year": 2025,
+    "citations": 9,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability through the use of SHAP analysis to enhance interpretability of a CatBoost classifier for predicting thyroid cancer recurrence."
+  },
+  {
+    "paperId": "03df8c9ff6728c474dabcb9df1a301634e6e5c20",
+    "title": "Hate Speech Classification Implementing NLP and CNN with Machine Learning Algorithm Through Interpretable Explainable AI",
+    "year": 2022,
+    "citations": 9,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes an XAI method (LIME) for hate speech classification and achieves high accuracy, indicating a direct address of explainability in AI/ML models."
+  },
+  {
+    "paperId": "059bb4ce5e286ab928a5ccd0c0ce6d7166265b04",
+    "title": "ConvNext as a Basis for Interpretability in Coffee Leaf Rust Classification",
+    "year": 2024,
+    "citations": 9,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses interpretability of AI/ML models by evaluating the behavior of ConvNext models in conjunction with CAM techniques for image classification."
+  },
+  {
+    "paperId": "0008d27a07b8e71c86a79221cce25349a8749c8a",
+    "title": "StruSR: Structure-Aware Symbolic Regression with Physics-Informed Taylor Guidance",
+    "year": 2025,
+    "citations": 9,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes a structure-aware symbolic regression framework that leverages Physics-Informed Neural Networks to extract physical priors and improve interpretability of symbolic expressions."
+  },
+  {
+    "paperId": "059d812e5b0d7e9221c6eeb3509b86f6d000500e",
+    "title": "Explainable AI in the military domain",
+    "year": 2024,
+    "citations": 12,
+    "relevance_score": 0.8,
+    "reason": "The paper directly addresses explainability in the military domain, proposing a critical assessment of its relevance and limitations."
+  },
+  {
+    "paperId": "002c9464370de0b79ee5d3a4f76c11693ee276c3",
+    "title": "Human-in-the-Loop Predictive Analytics Using Statistical Learning",
+    "year": 2021,
+    "citations": 12,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a human-in-the-loop framework involving AI for early prognosis of coma, which involves explainability through the use of biological signals and context data."
+  },
+  {
+    "paperId": "01bfbe0df0373ad7a31825ecc94bb799c724e2be",
+    "title": "Ensembles of Deep Learning Framework for Stomach Abnormalities Classification",
+    "year": 2022,
+    "citations": 11,
+    "relevance_score": 0.8,
+    "reason": "The paper directly addresses explainability by applying XAI techniques to interpret CNN decisions in a medical imaging task."
+  },
+  {
+    "paperId": "0105ce79bee7656f09b8010e82c20cce1cb26b33",
+    "title": "A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-Objective Optimization",
+    "year": 2023,
+    "citations": 11,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes a visual analytics framework for explaining evolutionary processes in multi-objective optimization, which is a specific application of explainable AI methods."
+  },
+  {
+    "paperId": "05a1a56125cc25af592d88f9978ee493506bf66f",
+    "title": "Mastering Neural Network Prediction for Enhanced System Reliability",
+    "year": 2022,
+    "citations": 11,
+    "relevance_score": 0.8,
+    "reason": "The paper directly addresses interpretability and the use of XAI tools for building trustworthy neural network models."
+  },
+  {
+    "paperId": "011d62349958da22270c1a282473eca5edb6b654",
+    "title": "Assuring Autonomous UAS Traffic Management Systems Using Explainable, Fuzzy Logic, Black Box Monitoring",
+    "year": 2021,
+    "citations": 8,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in the context of autonomous UAS traffic management systems using fuzzy logic and black box monitoring."
+  },
+  {
+    "paperId": "027080a0c6d3ba4b164903e81e70975b22bd13e5",
+    "title": "Artificial Intelligence and Advanced Digital Health for Hypertension: Evolving Tools for Precision Cardiovascular Care",
+    "year": 2025,
+    "citations": 8,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models for hypertension management, discussing XAI's importance for clinician trust and integration into decision-making."
+  },
+  {
+    "paperId": "02a9c28eb98642335e683c114e7dbe3e177b1c90",
+    "title": "Predicting Hospital Stay Length Using Explainable Machine Learning",
+    "year": 2024,
+    "citations": 8,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models by utilizing explainable artificial intelligence (xAI) for predicting hospital stay length."
+  },
+  {
+    "paperId": "022f9847eff9aa357389a9e004ec7114eba95f84",
+    "title": "Why Don't You Do Something About It? Outlining Connections between AI Explanations and User Actions",
+    "year": 2023,
+    "citations": 8,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI systems and proposes a framework for mapping information presented in explanations to user actions."
+  },
+  {
+    "paperId": "0289b102c41904a24e4f483f04712602ca53d9a0",
+    "title": "Probabilistic Explanations for Linear Models",
+    "year": 2025,
+    "citations": 8,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability by proposing a probabilistic relaxation of sufficient reasons for linear models."
+  },
+  {
+    "paperId": "02eacd589425d7868abe2fb79bf9639d3eef96ff",
+    "title": "Towards Explainable Meta-learning",
+    "year": 2020,
+    "citations": 8,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in meta-learning, proposing techniques from XAI to improve model tunability."
+  },
+  {
+    "paperId": "0011a88f330a75f0f2880d1a6f76e77d0bdbcdf6",
+    "title": "Investigating the Effectiveness of Explainability Methods in Parkinson’s Detection from Speech",
+    "year": 2024,
+    "citations": 8,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models by evaluating several explainability methods for Parkinson's disease diagnosis."
+  },
+  {
+    "paperId": "02633f1b202b99613c3ad6b8c8298889b1b2553f",
+    "title": "Artificial Intelligence to Predict Billing Code Levels of Emergency Department Encounters.",
+    "year": 2024,
+    "citations": 10,
+    "relevance_score": 0.8,
+    "reason": "The paper applies explainable AI methods to a specific domain (healthcare) and discusses the importance of model features using Shapley Additive Explanations values."
+  },
+  {
+    "paperId": "000dada0c2c63e81ec84d163ec19ed7eebabc1ba",
+    "title": "Analyzing the impact of socioeconomic indicators on gender inequality in Sri Lanka: A machine learning-based approach",
+    "year": 2024,
+    "citations": 10,
+    "relevance_score": 0.8,
+    "reason": "The paper applies Explainable AI techniques (SHAP) to analyze the relationship between socioeconomic factors and gender inequality in Sri Lanka."
+  },
+  {
+    "paperId": "0034396222b49bdc8749f94a0d2cd4fc8b1d429b",
+    "title": "Elevating Code-mixed Text Handling through Auditory Information of Words",
+    "year": 2023,
+    "citations": 10,
+    "relevance_score": 0.8,
+    "reason": "The paper uses SHAP for explainability to demonstrate how auditory features assist the model in handling code-mixed text and increasing robustness against adversarial attacks."
+  },
+  {
+    "paperId": "03036405034bb063e1629f78d4db4e5b69b458fe",
+    "title": "Deep learning to capture leaf shape in plant images: Validation by geometric morphometrics.",
+    "year": 2024,
+    "citations": 10,
+    "relevance_score": 0.8,
+    "reason": "The paper applies XAI methods (geometric morphometrics) to a specific domain (plant species identification) and evaluates the effectiveness of DL in capturing leaf shape."
+  },
+  {
+    "paperId": "015e7db278e5c840187790cf2fa062e961bde0ad",
+    "title": "Early prediction of patient discharge disposition in acute neurological care using machine learning",
+    "year": 2022,
+    "citations": 10,
+    "relevance_score": 0.8,
+    "reason": "The paper proposes and evaluates machine learning models for early prediction of patient discharge disposition, and also discusses the interpretability of the best-performing models."
+  },
+  {
+    "paperId": "017217e97d60e7024f4ec104327f0e364586d1ab",
+    "title": "A Review of Physics-Informed Machine Learning Methods with Applications to Condition Monitoring and Anomaly Detection",
+    "year": 2024,
+    "citations": 10,
+    "relevance_score": 0.8,
+    "reason": "The paper discusses the integration of physical knowledge into machine learning models, which enhances model interpretability, aligning with the XAI research domain."
+  },
+  {
+    "paperId": "00a3c57169335c796e492c56854c637bd6e07986",
+    "title": "Explainable Agents as Static Web Pages: UAV Simulation Example",
+    "year": 2020,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability of autonomous agents and proposes a method for facilitating human-computer interaction studies."
+  },
+  {
+    "paperId": "01546901a9a8a5cd574110b3baf036c26526e4d9",
+    "title": "Explainable Artificial Intelligence (XAI) towards Model Personality in NLP task",
+    "year": 2021,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in NLP tasks using XAI methods and evaluates their effectiveness."
+  },
+  {
+    "paperId": "01ece2b963a6d334dfb0ba50ad096567ca1766c1",
+    "title": "A Secure and Reliable Framework for Explainable Artificial Intelligence (XAI) in Smart City Applications",
+    "year": 2024,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in AI/ML models and proposes a framework for XAI in smart city applications."
+  },
+  {
+    "paperId": "0250e180a60e8a55361214969c1967a886801c13",
+    "title": "Explainable Artificial Intelligence Requirements for Safe, Intelligent Robots",
+    "year": 2021,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability in the context of AI/ML for safe, intelligent robots, aligning with the research domain of Explainable AI."
+  },
+  {
+    "paperId": "02dc149f7412ebabef0a4a5e16b6f7815cee5fe7",
+    "title": "ALL-Net: integrating CNN and explainable-AI for enhanced diagnosis and interpretation of acute lymphoblastic leukemia",
+    "year": 2025,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability through the use of XAI techniques, specifically LIME, to interpret the model's predictions."
+  },
+  {
+    "paperId": "004a03ec628ad23344e19bb25d936daf151b2318",
+    "title": "From Text to Pixels: Enhancing User Understanding through Text-to-Image Model Explanations",
+    "year": 2024,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability of Text-to-Image models, proposing and evaluating explanation techniques for inexperienced end users."
+  },
+  {
+    "paperId": "00ef39516d67b3ede7f7a081333a7d3f3c8d2c7b",
+    "title": "A Transformer-Based Framework for Accurate and Interpretable PM2.5 Forecasting through Integration of Country-Level Embeddings and Explainable AI for Enhanced Environmental Decision-Making",
+    "year": 2025,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability and interpretability of AI/ML models through the use of SHAP and LIME, and applies XAI methods to a specific domain (air quality prediction)"
+  },
+  {
+    "paperId": "0220d922200242dceed0c1a49f82889767985bd2",
+    "title": "Improving Chronic Kidney Disease Detection Efficiency: Fine Tuned CatBoost and Nature-Inspired Algorithms with Explainable AI",
+    "year": 2025,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability through the use of SHAP, a well-known XAI technique, and applies XAI methods to a specific domain (healthcare)."
+  },
+  {
+    "paperId": "00f7f44dd03ef0ff666ac47ead5970dfa8273465",
+    "title": "Individual Mobility Prediction: An Interpretable Activity-based Hidden Markov Approach",
+    "year": 2021,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes an interpretable AI/ML model for individual mobility prediction and discusses its application in a specific domain (transportation)."
+  },
+  {
+    "paperId": "00fd77260aef3c84364a6e139b97e72ce26851e5",
+    "title": "Hierarchical Neural Network with Layer-wise Relevance Propagation for Interpretable Multiclass Neural State Classification",
+    "year": 2021,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper directly addresses explainability through the use of layer-wise relevance propagation for interpretable multiclass neural state classification."
+  },
+  {
+    "paperId": "010944eb5a65c63f39e80f97355e16894267a8d8",
+    "title": "Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach",
+    "year": 2023,
+    "citations": 7,
+    "relevance_score": 0.9,
+    "reason": "The paper proposes an interpretable deep learning approach for admission prediction, incorporating an interpretability module (LIME) to provide insights into the model's decision-making process."
+  }
+]
